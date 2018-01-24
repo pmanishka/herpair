@@ -4,9 +4,9 @@
     id          = "herpair.com"
     versionCode = "1" 
     version     = "1.0.0" >    
-    <name>Herpair 2</name>
+    <name>Herpair</name>
     <description>
-      Herpair 2
+      Herpair
     </description>
     <author href="http://www.vantagewebtech.com" email="vantage.krishna@gmail.com">
       Krishna Kumar
