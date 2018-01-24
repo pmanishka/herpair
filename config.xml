@@ -18,5 +18,11 @@
   </author>
 
 
+	<plugin name="phonegap-plugin-barcodescanner" />
+
+
+	
+	<plugin name="cordova-plugin-camera" />
+	
 	
 </widget>
